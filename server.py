@@ -45,11 +45,11 @@ def download_latest_release(download_path='.'):
 	if pet.status_code == 200:
 		data = pet.json()      
 		url = data.get('latest')   
-		version = url.split("/")[-1]  
+		version = url.split("/")[-1]   
 		if version in glob.glob("*.msp"):  
 			return version  
 		else: 
-			os.system("rm *.msp")
+			os.system("rm *.msp") 
 			print("Actualizando tu versión de MSP...")
 			time.sleep(1.5)
 		pathto = os.path.join(download_path, version)
