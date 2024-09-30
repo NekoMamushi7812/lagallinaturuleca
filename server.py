@@ -6,15 +6,15 @@
 # Puedes instalar purpur después de instalar fabric desde el menú de gestionar
 
 # Regiones de ngrok
-# Código          Lugar
+# Código          Lugard
 #-----------      ---------------------------
 # ap	          Asia / Pacífico (Singapore) 
-# au		      Australia (Sydney)
-# eu		      Europa (Frankfurt) 
+# au		      Australia (Sydney) 
+# eu		      Europa (Frankfurt)  
 # in		      India (Mumbai)   
 # jp		      Japón (Tokyo) 
 # sa		      Sudamérica (São Paulo)
-# us		      Estados unidos (Ohio) 
+# us		      Estados unidos (Ohio)  
 # us-cal-1	      Estados unidos (California) 
 
   
