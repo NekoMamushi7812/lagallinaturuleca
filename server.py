@@ -9,7 +9,7 @@
 # Código          Lugard  
 #-----------      ---------------------------   
 # ap	          Asia / Pacífico (Singapore)
-# au		      Australia (Sydney)  
+# au		      Australia (Sydney)
 # eu		      Europa (Frankfurt)
 # jp		      Japón (Tokyo)
 # sa		      Sudamérica (São Paulo) 
