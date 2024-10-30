@@ -10,7 +10,7 @@
 #-----------      ---------------------------   
 # ap	          Asia / Pacífico (Singapore)
 # au		      Australia (Sydney)
-# eu		      Europa (Frdeankfurt) 
+# eu		      Eurgiopa (Frdeankfurt) 
 # jp		      Japón (Tokyo) 
 # sa		      Sudamérica (São Paulo)
 # us		      Estados unidos (Ohio)     
