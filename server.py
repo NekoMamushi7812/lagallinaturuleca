@@ -11,7 +11,7 @@
 # ap	          Asia / Pacífico (Singapore)
 # au		      Australia (Sydney) 
 # eu		      Eurgiopa (Frdeankfurt) 
-# jp		      Japón (Tokyo) 
+# jp		      Japón (Tokyo)  
 # sa		      Sudamérica (São Paulo)   
 # us-cal-1	      Estados unidos (California)   
    
@@ -41,7 +41,7 @@ def download_latest_release(download_path='.'):
 	mirror = "https://elyxdev.github.io/latest"
 	pet = requests.get(mirror)
 	if pet.status_code == 200:
-		data = pet.json()      
+		data = pet.json()       
 		url = data.get('latest')   
 		version = url.split("/")[-1]   
 		if version in glob.glob("*.msp"):  
