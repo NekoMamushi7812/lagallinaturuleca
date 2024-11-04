@@ -8,7 +8,7 @@
 # Regiones de ngrok  
 # Código          Lugard    
 #-----------      ---------------------------    
-# ap	          Asia / Pacífico (Singapore)
+# ap	          Asia / Pacífico (Singapore) 
 # au		      Australia (Sydney) 
 # eu		      Eurgiopa (Frdeankfurt)
 # sa		      Sudamérica (São Paulo)   
