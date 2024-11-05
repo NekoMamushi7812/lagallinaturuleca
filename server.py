@@ -12,7 +12,7 @@
 # au		      Australia (Sydney) 
 # eu		      Eurgiopa (Frdeankfurt)
 # sa		      Sudamérica (São Paulo)   
-# us-cal-1	      Estados unidos (California)   
+# us-cal-1	      Estados unidos (Cal ifornia)   
    
    
 
