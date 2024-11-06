@@ -10,7 +10,7 @@
 #-----------      ---------------------------    
 # ap	          Asia / Pacífico (Singapore) 
 # au		      Australia (Sydney) 
-# eu		      Eurgiopa (Frdeankfurt)
+# eu		      Eurgiopa (Frdeankfurt)vb
 # sa		      Sudamérica (São Paulo)    
 # us-cal-1	      Estados unidos (Cal ifornia)   
    
