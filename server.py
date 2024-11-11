@@ -9,9 +9,11 @@
 # Código          Lugard    
 #-----------      ---------------------------    
 # ap	          Asia / Pacífico (Singapore) 
-# au		      Australia (Sydney) 
+# au		      Australia (Sydney) deck
+vullaina
+
 # eu		      Eurgiopa (Frdeankfurt)vb
-# sa		      Sudamérica (São Paulo)    
+# sa		      Sudamérica (São Paulo)     
 # us-cal-1	      Estados unidos (Cal ifornia)   
    
    
